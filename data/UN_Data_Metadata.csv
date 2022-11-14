@@ -1,0 +1,99 @@
+Page,URL,Description
+1,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:1&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", ALL COMMODITIES
+2,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:2&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 01 Live animals
+3,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:3&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 02 Meat and edible meat offal
+4,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:4&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 03 Fish, crustaceans, molluscs, aquatic invertebrates ne"
+5,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:5&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 04 Dairy products, eggs, honey, edible animal product nes"
+6,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:6&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 05 Products of animal origin, nes"
+7,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:7&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 06 Live trees, plants, bulbs, roots, cut flowers etc"
+8,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:8&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 07 Edible vegetables and certain roots and tubers
+9,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:9&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 08 Edible fruit, nuts, peel of citrus fruit, melons"
+10,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:10&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 09 Coffee, tea, mate and spices"
+11,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:11&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 10 Cereals
+12,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:12&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 11 Milling products, malt, starches, inulin, wheat glute"
+13,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:13&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 12 Oil seed, oleagic fruits, grain, seed, fruit, etc, ne"
+14,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:14&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 13 Lac, gums, resins, vegetable saps and extracts nes"
+15,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:15&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 14 Vegetable plaiting materials, vegetable products nes"
+16,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:16&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 15 Animal,vegetable fats and oils, cleavage products, et"
+17,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:17&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 16 Meat, fish and seafood food preparations nes"
+18,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:18&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 17 Sugars and sugar confectionery
+19,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:19&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 18 Cocoa and cocoa preparations
+20,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:20&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 19 Cereal, flour, starch, milk preparations and products"
+21,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:21&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 20 Vegetable, fruit, nut, etc food preparations"
+22,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:22&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 21 Miscellaneous edible preparations
+23,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:23&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 22 Beverages, spirits and vinegar"
+24,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:24&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 23 Residues, wastes of food industry, animal fodder"
+25,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:25&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 24 Tobacco and manufactured tobacco substitutes
+26,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:26&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 25 Salt, sulphur, earth, stone, plaster, lime and cement"
+27,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:27&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 26 Ores, slag and ash"
+28,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:28&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 27 Mineral fuels, oils, distillation products, etc"
+29,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:29&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 28 Inorganic chemicals, precious metal compound, isotope"
+30,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:30&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 29 Organic chemicals
+31,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:31&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 30 Pharmaceutical products
+32,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:32&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 31 Fertilizers
+33,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:33&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 32 Tanning, dyeing extracts, tannins, derivs,pigments et"
+34,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:34&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 33 Essential oils, perfumes, cosmetics, toileteries"
+35,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:35&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 34 Soaps, lubricants, waxes, candles, modelling pastes"
+36,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:36&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 35 Albuminoids, modified starches, glues, enzymes"
+37,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:37&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 36 Explosives, pyrotechnics, matches, pyrophorics, etc"
+38,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:38&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 37 Photographic or cinematographic goods
+39,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:39&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 38 Miscellaneous chemical products
+40,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:40&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 39 Plastics and articles thereof
+41,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:41&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 40 Rubber and articles thereof
+42,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:42&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 41 Raw hides and skins (other than furskins) and leather
+43,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:43&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 42 Articles of leather, animal gut, harness, travel good"
+44,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:44&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 43 Furskins and artificial fur, manufactures thereof"
+45,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:45&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 44 Wood and articles of wood, wood charcoal"
+46,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:46&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 45 Cork and articles of cork
+47,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:47&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 46 Manufactures of plaiting material, basketwork, etc."
+48,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:48&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 47 Pulp of wood, fibrous cellulosic material, waste etc"
+49,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:49&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 48 Paper & paperboard, articles of pulp, paper and board"
+50,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:50&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 49 Printed books, newspapers, pictures etc"
+51,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:51&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 50 Silk
+52,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:52&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 51 Wool, animal hair, horsehair yarn and fabric thereof"
+53,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:53&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 52 Cotton
+54,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:54&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 53 Vegetable textile fibres nes, paper yarn, woven fabri"
+55,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:55&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 54 manmade filaments
+56,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:56&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 55 manmade staple fibres
+57,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:57&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 56 Wadding, felt, nonwovens, yarns, twine, cordage, etc"
+58,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:58&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 57 Carpets and other textile floor coverings
+59,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:59&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 58 Special woven or tufted fabric, lace, tapestry etc"
+60,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:60&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 59 Impregnated, coated or laminated textile fabric"
+61,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:61&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 60 Knitted or crocheted fabric
+62,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:62&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 61 Articles of apparel, accessories, knit or crochet"
+63,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:63&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 62 Articles of apparel, accessories, not knit or crochet"
+64,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:64&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 63 Other made textile articles, sets, worn clothing etc"
+65,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:65&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 64 Footwear, gaiters and the like, parts thereof"
+66,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:66&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 65 Headgear and parts thereof
+67,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:67&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 66 Umbrellas, walking-sticks, seat-sticks, whips, etc"
+68,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:68&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 67 Bird skin, feathers, artificial flowers, human hair"
+69,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:69&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 68 Stone, plaster, cement, asbestos, mica, etc articles"
+70,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:70&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 69 Ceramic products
+71,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:71&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 70 Glass and glassware
+72,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:72&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 71 Pearls, precious stones, metals, coins, etc"
+73,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:73&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 72 Iron and steel
+74,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:74&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 73 Articles of iron or steel
+75,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:75&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 74 Copper and articles thereof
+76,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:76&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 75 Nickel and articles thereof
+77,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:77&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 76 Aluminium and articles thereof
+78,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:78&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 78 Lead and articles thereof
+79,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:79&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 79 Zinc and articles thereof
+80,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:80&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 80 Tin and articles thereof
+81,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:81&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 81 Other base metals, cermets, articles thereof"
+82,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:82&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 82 Tools, implements, cutlery, etc of base metal"
+83,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:83&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 83 Miscellaneous articles of base metal
+84,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:84&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 84 Nuclear reactors, boilers, machinery, etc"
+85,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:85&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 85 Electrical, electronic equipment"
+86,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:86&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 86 Railway, tramway locomotives, rolling stock, equipmen"
+87,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:87&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 87 Vehicles other than railway, tramway"
+88,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:88&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 88 Aircraft, spacecraft, and parts thereof"
+89,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:89&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 89 Ships, boats and other floating structures"
+90,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:90&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 90 Optical, photo, technical, medical, etc apparatus"
+91,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:91&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 91 Clocks and watches and parts thereof
+92,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:92&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 92 Musical instruments, parts and accessories"
+93,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:93&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 93 Arms and ammunition, parts and accessories thereof"
+94,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:94&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 94 Furniture, lighting, signs, prefabricated buildings"
+95,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:95&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 95 Toys, games, sports requisites"
+96,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:96&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 96 Miscellaneous manufactured articles
+97,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:97&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1"," 97 Works of art, collectors pieces and antiques"
+98,"http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code:98&c=2,3,5,7,8,9,11,12&s=_crEngNameOrderBy:asc,yr:desc,_l2Code:asc&v=1", 99 Commodities not specified according to kind
