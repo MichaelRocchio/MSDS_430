@@ -1,0 +1,11 @@
+sklearn
+pandas
+numpy
+tensorflow
+matplotlib
+seaborn
+selenium
+jupyter
+iPython
+notebook
+ipykernel
